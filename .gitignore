@@ -1,0 +1,5 @@
+# Arquivos gerados automaticamente
+/node_modules
+
+# Arquivos de configuração local
+/config/config.js
